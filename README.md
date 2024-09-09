@@ -13,7 +13,7 @@ Open the whole_data_analysis.ipynb Jupyter notebook using a Jupyter server. Expl
 whole_data_analysis.ipynb
 ```
 
-Run each part of the code in the notebook to explore the data
+Run each part of the code in the notebook to explore the data. Note that some of the code is redundant to make it easier to re-run some sections without having to run the previous section.
 
 ## Contributing
 
